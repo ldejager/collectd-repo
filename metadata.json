@@ -1,0 +1,10 @@
+{
+  "name": "ldejager-collectdrepo",
+  "version": "0.0.1",
+  "author": "ldejager",
+  "license": "GPL",
+  "summary": "Puppet module for collectd 5.5 RPMs",
+  "source": "https://github.com/ldejager/puppet-collectdrepo",
+  "dependencies": [
+  ]
+}
