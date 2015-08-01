@@ -1,0 +1,5 @@
+[collectd]
+name = RHEL $releasever - collectd
+baseurl = http://repo.coretanium.net
+enabled = 1
+protect = 0
