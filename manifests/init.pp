@@ -3,5 +3,5 @@ file { '/etc/yum.repos.d/collectd.repo':
   owner  => 0,
   group  => 0,
   mode   => '0644',
-  source => 'puppet:///modules/collectd-repo/collectd.repo',
+  source => 'puppet:///modules/collectdrepo/collectd.repo',
 }
